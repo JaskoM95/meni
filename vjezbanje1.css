@@ -1,0 +1,45 @@
+#wrapp {
+
+    width: 50%;
+    border: 3px solid gray;
+    margin: 100px auto;
+
+}
+
+
+.meni {
+
+
+    width: 100%;
+    height: 100%;
+
+   
+
+
+
+}
+
+
+.naslovi {
+
+    text-align: center;
+    font-size: 3em;
+    border-bottom: 2px solid black;
+    background-color: lightslategrey;
+
+
+
+}
+
+
+.podnaslovi {
+
+    text-align: center;
+    font-size: x-large;
+    background-color: yellowgreen;
+    border-top: 1px solid gray;
+    display: none;
+
+
+
+}
